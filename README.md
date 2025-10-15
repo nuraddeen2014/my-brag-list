@@ -6,6 +6,7 @@ This is my personal brag list where I track what I’ve done, learned, and achie
 
 ## 📂 Monthly Worklogs
 - [September 2025](worklogs/sept-2025.md)
+- [October 2025](worklogs/oct-2025.md)
 
 
 ---
